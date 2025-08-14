@@ -1,0 +1,17 @@
+# Laravel
+leasein-api/vendor
+leasein-api/node_modules
+leasein-api/storage/*.key
+leasein-api/.env
+
+# Vue
+leasein-frontend/node_modules
+leasein-frontend/dist
+
+# PHP Nativo
+leasein-elementor/vendor
+leasein-elementor/node_modules
+
+# Otros
+*.log
+.DS_Store
